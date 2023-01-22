@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checking our Raining Status Check the Rain 1`] = `
+<div
+  className="MyTestComp"
+>
+  <button
+    onClick={[Function]}
+  >
+    Show
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Not Raining
+  </button>
+</div>
+`;
+
+exports[`Our First Snapshot Test Case Testing the Button UI for the App 1`] = `
+<div
+  className="MyTestComp"
+>
+  <button
+    onClick={[Function]}
+  >
+    Show
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Not Raining
+  </button>
+</div>
+`;
+
+exports[`toggle the button 1`] = `
+<div
+  className="MyTestComp"
+>
+  <button
+    onClick={[Function]}
+  >
+    Show
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Not Raining
+  </button>
+</div>
+`;
